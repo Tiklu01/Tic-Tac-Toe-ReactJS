@@ -1,0 +1,24 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+  }
+  
+  .board-row {
+    display: flex;
+  }
+  .status{
+    font-size: 30px;
+  }
+  .reset{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  
+
+  /* Add any other styling you want here */
+  
